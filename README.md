@@ -2,7 +2,7 @@
 
 > A C++ simulation and rendering engine exploring light, physics, and real-time systems.
 
-![Ray Tracing Demo](assets/demo.png)
+![Ray Tracing Demo](ray_tracer.gif)
 ---
 
 ## Overview
